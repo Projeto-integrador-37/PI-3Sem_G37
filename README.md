@@ -15,7 +15,7 @@
 ![main](Img/main.jpeg)
 
 ##
-- Cadastro de alunos
+- ### Cadastro de alunos
   
  ![main](Img/Alunos/aluno_1.jpeg)
  
@@ -23,7 +23,7 @@
 
 ##
 
-- Cadastro de Professores
+- ### Cadastro de Professores
   
 ![main](Img/Professores/Professor_1.jpeg)
  
@@ -36,7 +36,7 @@
 ##
 
 
-- Cadastro de Professores
+- ### Cadastro de Professores
   
 ![main](Img/Fornecedores/Fornecedor_1.jpeg)
  
