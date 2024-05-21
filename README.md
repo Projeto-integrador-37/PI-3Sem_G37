@@ -39,10 +39,9 @@
   
 ![main](Img/Fornecedores/Fornecedor_1.jpeg)
  
+![main](Img/Fornecedores/Fornecedor_2.jpeg)
+
 ![main](Img/Fornecedores/Fornecedor_3.jpeg)
 
-![main](Img/Fornecedores/Fornecedor_4.jpeg)
-
-![main](Img/Fornecedores/Fornecedor_5.jpeg)
 
 ##
